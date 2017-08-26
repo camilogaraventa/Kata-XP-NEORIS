@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TDD.Kata.StringCalculator
 {
+    /// <summary>
+    /// Example class for Kata
+    /// </summary>
     public class SampleClass
     {
     }
